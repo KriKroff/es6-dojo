@@ -1,0 +1,7 @@
+.idea
+.iml
+node_modules
+karma_html
+*.bundle.js
+es6.js
+.DS_STORE
